@@ -8,6 +8,31 @@ AI-driven search increasingly acts as an **intermediary layer** between brands a
 
 ---
 
+## 🗺️ Traditional Search vs AI-Mediated Product Discovery
+
+```mermaid
+flowchart LR
+    A[Customer Question or Need] --> B[Traditional Search Engine]
+    B --> C[Ranked Links]
+    C --> D[User Clicks PDP]
+    D --> E[User Interprets Content]
+
+    A --> F[AI Search / AI Overview]
+    F --> G[AI Parses Multiple Sources]
+    G --> H[AI Summarizes & Compares]
+    H --> I[AI Recommends Products]
+    I --> J[Selective Click or No Click]
+
+    D --> K[Brand Controls Messaging]
+    J --> L[AI Interprets Messaging]
+
+    style F fill:#e6f3ff
+    style H fill:#e8f5e9
+    style J fill:#fff3cd
+    style K fill:#e6f3ff
+    style L fill:#fce4ec
+```
+
 ## 📉 The Decoupling of Rankings and Visibility
 
 Historically:
@@ -83,3 +108,4 @@ Brands that adapt early can:
 - Extend the useful life of PDP content
 
 This project treated AI-readiness as **core digital infrastructure**, not an experiment or future roadmap item.
+
