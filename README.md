@@ -61,8 +61,21 @@ This project anticipated:
 
 ## 📊 High-Level Workflow
 
-See [`/diagrams/seo-ai-workflow.mmd`](./diagrams/seo-ai-workflow.mmd)
+```mermaid
+flowchart LR
+    A[Product Identified] --> B[Content Standards Applied]
+    B --> C[Custom GPT Draft Generation]
+    C --> D[Human Review<br/>Marketing · Sales · Product]
+    D --> E[Final Approval]
+    E --> F[Shopify PDP]
+    E --> G[Meta & Short Descriptions]
+    E --> H[Workbook Copy]
 
+    F --> I[Search Engines]
+    F --> J[AI Overviews / LLMs]
+    G --> I
+    H --> K[Internal Teams]
+```
 ---
 
 ## 📄 License
