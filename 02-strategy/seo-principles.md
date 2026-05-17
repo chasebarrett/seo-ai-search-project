@@ -73,7 +73,7 @@ This avoided dilution and misuse across channels.
 
 ---
 
-## 5️⃣ Consistency Is a Ranking Signal (Even When Rankings Fade)
+## 5️⃣ Consistency Is a Ranking Signal
 
 AI systems infer trust through consistency.
 
