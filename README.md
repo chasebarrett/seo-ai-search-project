@@ -1,4 +1,4 @@
-# SCARPA SEO & AI-Search Project
+# SCARPA SEO & AI Search Project
 
 **Case Study | SEO Strategy | AI-Ready Content Systems**
 
@@ -18,29 +18,47 @@ Rather than chasing keywords alone, this initiative treated SEO as a **content s
 - Reduced reliance on paid media through stronger native search performance
 - Established repeatable content standards for current and future products
 - Aligned SEO execution across Marketing, Sales, and Product stakeholders
-- Deployed a **custom GPT model** trained on brand-approved language
+- Deployed a **custom GPT** configured with brand voice, SEO, and governance rules
+
+---
+
+## 🧠 Project Reflection
+
+After project completion, this work prompted a deeper examination of how AI agent builder tools actually behave architecturally — and what that means for governance, configuration, and prompt design at scale.
+
+→ **[Lessons Learned (v2.0)](lessons-learned.md)** — Updated April 2026 with post-project analysis of LLM context engineering and AI agent builder design patterns.
 
 ---
 
 ## 📂 What This Repo Covers
 
-| Section | Purpose |
-|------|------|
-| **Context** | Business case, AI-search landscape |
-| **Strategy** | SEO principles & content standards |
-| **Workflow** | Governance, review cycles, PM approach |
-| **Tooling** | Custom GPT, Monday.com workflows |
-| **Artifacts** | Templates & examples (sanitized) |
-| **Diagrams** | Visual system explanations |
+### Context
+- [Business Case](01-context/business-case.md)
+- [AI Search Landscape](01-context/ai-search-landscape.md)
 
-> ⚠️ **Note:** This repo intentionally excludes proprietary product copy and performance data.
+### Strategy
+- [SEO Principles](02-strategy/seo-principles.md)
+- [Content Standards](02-strategy/content-standards.md)
+
+### Workflow
+- [Process Overview (Agile/Kanban)](03-workflow/process-overview.md)
+- [Governance Model](03-workflow/governance.md)
+
+### Tooling
+- [Custom GPT Model](04-tooling/custom-gpt.md)
+- [Monday.com Workflows](04-tooling/monday-workflows.md)
+
+### Reflection
+- [Lessons Learned (v2.0)](lessons-learned.md)
+
+> ⚠️ This repo intentionally excludes proprietary product copy and performance data.
 
 ---
 
-## 🧪 Why AI-Search Changed the Approach
+## 🧪 Why AI Search Changed the Approach
 
 Traditional SEO optimizes for rankings.  
-AI-search optimizes for **answers, intent, and citation**.
+AI search optimizes for **answers, intent, and citation**.
 
 This project anticipated:
 - AI Overviews appearing above traditional results
