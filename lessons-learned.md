@@ -2,7 +2,8 @@
 ## AI-Enabled Product Copy — SCARPA North America
 
 **Version 2.0 — Updated April 18, 2026**
-*Original documentation: [v1.0 — link to original GitHub commit]*
+
+*Original version written during the project; this v2.0 reflects post-project analysis*
 
 ---
 
@@ -260,4 +261,4 @@ AI agent builders are designed around a "more configuration equals better perfor
 
 ---
 
-*Version 2.0 — Updated April 18, 2026. Updated to reflect post-project analysis of LLM architecture, context engineering research, and AI agent builder design patterns. Original v1.0 available at [GitHub link].*
+*Version 2.0 — Updated April 18, 2026. Updated to reflect post-project analysis of LLM architecture, context engineering research, and AI agent builder design patterns.*
