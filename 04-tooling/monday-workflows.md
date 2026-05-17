@@ -8,6 +8,7 @@ This document describes how the project’s **process and governance decisions**
 The purpose of Monday.com here was not “project tracking”—it was **system visibility**, **WIP control**, and **shared accountability**.
 
 Monday was chosen as the project management software due to stakeholders’ existing familiarity with the tool.
+
 ---
 
 ## 📋 Board Structure
