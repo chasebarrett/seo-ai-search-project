@@ -29,7 +29,7 @@ A product was not considered “done” until all four outputs were approved and
 Work was managed on a Kanban board to make status visible and reduce bottlenecks.
 
 ### Why Kanban Worked Here
-- Work requests arrived continuously (not in a single backlog dump)
+- Work requests arrived continuously (rather than as a single batch)
 - Stakeholder review capacity fluctuated week-to-week
 - We needed **flow and throughput**, not rigid sprint commitments
 - We wanted to limit WIP to prevent half-finished products piling up
